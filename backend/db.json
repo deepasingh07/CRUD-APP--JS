@@ -1,0 +1,174 @@
+{
+  "employees": [
+    {
+      "id": "1c13",
+      "firstname": "Demo",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      }
+    },
+    {
+      "id": "4ef3",
+      "firstname": "Demo",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      }
+    },
+    {
+      "firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      },
+      "id": "NlArahD"
+    },
+    {
+      "firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      },
+      "id": "apCDqAa"
+    },
+    {
+      "firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      },
+      "id": "P2A4onb"
+    },
+    {
+      "firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      },
+      "id": "xW6nocT"
+    },
+    {
+      "firstname": "Deepa",
+      "middlename": "",
+      "lastname": "Singh",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "09569977250",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "No",
+        "country": "India",
+        "zipcode": ""
+      },
+      "id": "yAkmpwd"
+    },
+    {
+      "firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      },
+      "id": "YxWAbpG"
+    },
+    {
+      "firstname": "",
+      "middlename": "",
+      "lastname": "",
+      "dob": "",
+      "email": "",
+      "maritalstatus": "",
+      "phoneno": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "country": "",
+        "zipcode": ""
+      },
+      "id": "nwlpAYt"
+    },
+    {
+      "firstname": "RAM",
+      "middlename": "BAHADUR",
+      "lastname": "SINGH",
+      "dob": "2026-02-07",
+      "email": "DS4227325@GMAIL.COM",
+      "maritalstatus": "single",
+      "phoneno": "09569977250",
+      "address": {
+        "street": "VIKAS NAGAR LUCKNOW",
+        "city": "LUCKNOW",
+        "state": "UTTAR PRADESH",
+        "country": "India",
+        "zipcode": "226022"
+      },
+      "id": "6DNUUA7"
+    }
+  ]
+}
