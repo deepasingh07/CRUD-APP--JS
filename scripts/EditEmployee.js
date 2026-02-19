@@ -21,7 +21,7 @@ const zipCodeEle = document.getElementById("zipcode");
 
     try{
 
-let resp = await fetch(`http://localhost:5000/employees/${id}`);
+let resp = await fetch(`https://crud-app-js-sx31.onrender.com/employees`);
 let data = await resp.json();
 console.log(data);
 
